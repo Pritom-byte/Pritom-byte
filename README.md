@@ -1,42 +1,33 @@
-### Hi, I'm Pritom 👋
+# Hi, I'm Pritom 👋
 
-I'm a 2nd-semester BBA Informatics student at **Fachhochschule Südwestfalen** (Germany), training to become a data analyst. I like the part where data turns into a clear answer someone can act on.
-
----
-
-🔭 **Currently working on:**
-Sharpening Python (pandas, NumPy, matplotlib) and starting SQL — building data analysis projects in public.
-
-🌱 **Learning right now:**
-- SQL (Mode Analytics SQL Tutorial)
-- Data visualisation with Tableau
-- Statistics for analytics
-
-💼 **Looking for:**
-A **Summer 2026 data analyst Praktikum / internship** — Germany, UK, or remote.
+I'm a BBA with Informatics student at **Fachhochschule Südwestfalen**, Campus Soest, training to become a data analyst. I like the part where data turns into a clear answer someone can act on.
 
 ---
 
-### 🛠 Tools I use
+💼 **Looking for:** A **Werkstudent role in data analysis** in North Rhine-Westphalia — reporting, business intelligence, controlling or operations analytics. Available up to 20 hours per week during the semester, full-time during semester breaks. Open to hybrid and remote.
 
-`Python` · `pandas` · `NumPy` · `matplotlib` · `SciPy` · `Jupyter` · `Excel` · `Git` · `SQL (learning)`
-
----
-
-### 📊 Featured project
-
-**[Lotka-Volterra Predator-Prey Simulation](https://github.com/Pritom-byte/ecosystem-population-dynamics-simulation)**
-Implemented the Lotka-Volterra system of differential equations in Python. Solved numerically with SciPy, visualised population trajectories and phase-space orbits in matplotlib. Coursework project at FH Südwestfalen.
-
-*More projects landing soon — UK rail punctuality analysis next.*
+🛠 **Currently working on:** SQL and relational design in my Data Management module, and finishing an Excel data analytics course covering Power Query, Power Pivot and DAX.
 
 ---
 
-### 📫 Reach me
+## 📊 Projects
 
-- 📧 **Email:** pritommazumder1@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/pritxm](https://www.linkedin.com/in/pritxm/)
+**[Business Case Analysis](https://github.com/Pritom-byte/business-case-analysis)** — Four business decision cases modelled in Excel: retail store performance, a three-year EV profit model, an operating-scenario comparison and a marketing spend review. Each one ends in a recommendation, and each write-up includes what I would do differently. From *Problem Solving Using Spreadsheet Software* at FH-SWF (grade 1.7).
+
+**[Lotka-Volterra Predator-Prey Simulation](https://github.com/Pritom-byte/ecosystem-population-dynamics-simulation)** — Implemented a coupled system of differential equations in Python. Solved numerically with SciPy, visualised population trajectories and phase-space orbits in matplotlib. Team coursework project at FH-SWF.
 
 ---
 
-*"I'd rather spend an afternoon making a chart that changes a decision than write code for its own sake."*
+## 🧰 What I work with
+
+`Excel` · `Python` · `pandas` · `NumPy` · `SciPy` · `matplotlib` · `SQL` · `Jupyter` · `Git`
+
+Excel is where I've done the most analysis — VLOOKUP, SUMIFS, SUMPRODUCT, nested conditional logic, scenario models. Python is my strongest programming tool. SQL is in progress.
+
+---
+
+## 📫 Reach me
+
+- **Email:** pritommazumder1@gmail.com
+- **LinkedIn:** [linkedin.com/in/pritxm](https://linkedin.com/in/pritxm)
+- **Location:** Soest, North Rhine-Westphalia, Germany
